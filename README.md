@@ -7,4 +7,4 @@ This plugin sums up your selected text.
 
 I recommend you that you use this plugin with 'lightline.vim'
 
-![sample](http://cl.ly/image/3U0M0p0o3B3Q)
+![sample](https://s3.amazonaws.com/f.cl.ly/items/04440p0N3w2c2o2p3Q3M/output.gif)
